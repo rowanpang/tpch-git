@@ -1,0 +1,10 @@
+O_ORDERKEY|int|data|primary_key,O_CUSTKEY|int|data,O_ORDERSTATUS|string|data|char1,O_TOTALPRICE|double|data,O_ORDERDATE|string|data|date,O_ORDERPRIORITY|string|data|char16,O_CLERK|string|data|char16,O_SHIPPRIORITY|int|data,O_COMMENT|string|data
+1,36901,O,173665.47,1996-01-02,5-LOW,Clerk#000000951,0,round the ruthlessly special packa
+2,78002,O,46929.18,1996-12-01,1-URGENT,Clerk#000000880,0,blithely unusual ideas? express ideas cajole according t
+3,123314,F,193846.25,1993-10-14,5-LOW,Clerk#000000955,0, packages. pending instructions after the ironic excuses do haggle across
+4,136777,O,32151.78,1995-10-11,5-LOW,Clerk#000000124,0,uriously bold deposits. furiously ironic ideas atop the unusual instru
+5,44485,F,144659.20,1994-07-30,5-LOW,Clerk#000000925,0,g the quickly special theodolites. furiously quick pac
+6,55624,F,58749.59,1992-02-21,4-NOT SPECIFIED,Clerk#000000058,0,dolites grow. blithely express platelets wake quickly. final i
+7,39136,O,252004.18,1996-01-10,2-HIGH,Clerk#000000470,0,ts. pending packages
+32,130057,O,208660.75,1995-07-16,2-HIGH,Clerk#000000616,0,eodolites across the carefully final pinto beans wake ab
+33,66958,F,163243.98,1993-10-27,3-MEDIUM,Clerk#000000409,0,yly ironic foxes wake. blithely b
