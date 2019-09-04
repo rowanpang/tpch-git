@@ -1,3 +1,6 @@
+0,basic
+    a,test with postgreSQL
+
 1,usage
     1),cd tpch_gen && make
     2),./datagen.sh 1	or datagen.sh 10
